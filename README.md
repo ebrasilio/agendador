@@ -1,5 +1,6 @@
 Agendador
 =========
+<em>Dez2024 - Emilia Brasilio - fazendo adaptações para meu estoque pessoal</em>
 
 Agendador de espaço físico
 
