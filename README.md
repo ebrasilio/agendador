@@ -8,9 +8,9 @@ Agendador
 #### Titulo 4 
 ##### Titulo 5 
 ###### Titulo 6
-*italico* ou _italico
-**negrito** ou __negrito__
-___negrito e italico___
+*italico* ou _italico <br>
+**negrito** ou __negrito__<br>
+___negrito e italico___<br>
 
 - Lista 1 
 - Lista 2
@@ -19,8 +19,8 @@ ___negrito e italico___
 1. Lista 1
   1. Sublista
 
-[Texto da imagem](url da imagem) <!-- Cria link para a imagem-->
-![Texto da imagem](url da imagem) <!-- insere a imagem no arquivo -->
+[Texto da imagem](url da imagem) <!-- Cria link para a imagem--><br>
+![Texto da imagem](url da imagem) <!-- insere a imagem no arquivo --><br>
 
 `indica código`
 
@@ -34,7 +34,7 @@ ___negrito e italico___
 
 - (X) Tarefa 1 <br>
 - ( ) Tarefa 2
- 
+
 Agendador de espaço físico
 
 + Cria espaço físico para agendamento de horário.
