@@ -8,7 +8,7 @@ Agendador
 #### Titulo 4 
 ##### Titulo 5 
 ###### Titulo 6
-*italico* ou _italico <br>
+*italico* ou _italico_<br>
 **negrito** ou __negrito__<br>
 ___negrito e italico___<br>
 
@@ -20,7 +20,7 @@ ___negrito e italico___<br>
   1. Sublista
 
 [Texto da imagem](url da imagem) <!-- Cria link para a imagem--><br>
-![Texto da imagem](url da imagem) <!-- insere a imagem no arquivo --><br>
+**!**[Texto da imagem](url da imagem) <!-- insere a imagem no arquivo --><br>
 
 `indica código`
 
