@@ -1,7 +1,40 @@
 Agendador
 =========
 <em>Dez2024 - Emilia Brasilio - fazendo adaptações para meu estoque pessoal</em>
+<!-- Cabeçalho--> 
+# Titulo 1 
+## Titulo 2 
+### Titulo 3 
+#### Titulo 4 
+##### Titulo 5 
+###### Titulo 6
+*italico* ou _italico
+**negrito** ou __negrito__
+___negrito e italico___
 
+- Lista 1 
+- Lista 2
+   - Sublista
+
+1. Lista 1
+  1. Sublista
+
+[Texto da imagem](url da imagem) <!-- Cria link para a imagem-->
+![Texto da imagem](url da imagem) <!-- insere a imagem no arquivo -->
+
+`indica código`
+
+``` Bloco de códigos com mais de uma linha ```
+
+> Citação
+
+|Tabela | Tabela|
+|-------|-------|
+|tabela |tabela |
+
+- (X) Tarefa 1 <br>
+- ( ) Tarefa 2
+ 
 Agendador de espaço físico
 
 + Cria espaço físico para agendamento de horário.
